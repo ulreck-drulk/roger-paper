@@ -1,36 +1,28 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "Meet Roger"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+# The Challenge-Driven Business Administrator
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+Hey there! 👋 I'm Roger, a business administrator fueled by a passion for overcoming challenges. With over 6 years of diving deep into the world of data, I thrive on finding solutions that others might find daunting.
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+## Why I'm Different:
+
+- **Data Detective:** Excel, SQL, SAP, Exactus, Salesforce — I've navigated these realms like a pro. I'm not just familiar with them; I excel in utilizing them to unravel complexities and streamline operations.
+
+- **No Official Training, All Hands-On Expertise:** While my journey may not boast official training, I'm proud to be a hands-on learner, navigating the world of technology and design with curiosity and determination. Unlike a seasoned pro, I'm still finding my way around tools like Astro, Tailwind, CSS, and HTML. But don't let that fool you – my proficiency shines when it comes to wrangling data with SQL and mastering the art of Excel. I believe in learning by doing, and my journey is a testament to the power of curiosity and hands-on exploration. I mean, look! I created this site! :)
+
+## My Mantra: "I am the Main Character"
+
+In every challenge, I don't just see a problem; I see an opportunity to innovate. Embracing the mantra "I am the Main Character," my attitude propels me to dive into complexities headfirst and emerge with efficient, effective answers. Because in the story of problem-solving, I am the protagonist determined to find solutions that make a difference.
 
 <div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
+  <img src="/assets/pres.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
 </div>
 
-## Tech Stack
+## Beyond Work:
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+When I'm not immersed in data-driven solutions, you'll find me on a journey to become a Data Scientist and mastering technologies to evolve into a Full Stack developer. Additionally, I'm diving into the exciting world of live streaming on Twitch using OBS. And for those moments when I just want to kick back and relax, you might catch me enjoying a few rounds of video games. Because even the most dedicated problem-solver needs time to unwind, recharge, and embark on new learning adventures!
 
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+Ready to conquer challenges together? Let's make it happen!
