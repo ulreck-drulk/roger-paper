@@ -1,7 +1,7 @@
 ---
 author: Roger Chamorro
 pubDatetime: 2023-12-29T15:22:00Z
-modDatetime: 2023-12-29T09:12:47.400Z
+modDatetime: 2024-01-09T08:12:47.400Z
 title: My first Post in Astro
 postSlug: first-posts-in-astropaper-theme
 featured: true
@@ -10,6 +10,7 @@ tags:
   - docs
   - roger
   - intro
+  - journey
 description: This is my experience while creating a whole website using astro.
 ---
 
